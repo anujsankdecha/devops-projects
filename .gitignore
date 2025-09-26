@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node/Python
+node_modules/
+*.pyc
+.venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
