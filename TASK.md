@@ -1,16 +1,8 @@
-# TASK LOG
-
-## 1. Initialize repository
-- [x] Create GitHub repo `devops-project`
-- [x] Add README.md, .gitignore, TASKS.md and push initial commit
-
-## 2. Branches
-- [ ] Create `dev` branch
-- [ ] Create `feature/add-health-check` branch and open PR to `dev`
-
-## 3. Pull Requests
-- [ ] Merge feature -> dev after review
-- [ ] Merge dev -> main and tag release
-
-## 4. Release
-- [ ] Create annotated tag `v1.0.0` and GitHub Release
+# DevOps Project Tasks
+1. Initialized Git repository
+2. Added README.md and .gitignore
+3. Created src/hello.py
+4. Created branches: main, dev, feature
+5. Made changes in feature branch
+6. Merged feature → dev → main
+7. Added version tag v1.0
